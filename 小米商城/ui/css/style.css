@@ -69,8 +69,10 @@ color: rgb(66, 66, 66);
 .cart-menu p{
     color: black;
 }
-
 .topbar-info{
     float: right;
     padding-right: 15px;
+}
+.container{
+    height: 100px;
 }
