@@ -20,12 +20,12 @@ header {
     float: left;
   }
 
-.topbar-nav span {
+.topbar-nav,.topbar-info span {
 padding: 0 5px;
 color: rgb(66, 66, 66);
 }
 
-.topbar-nav a:hover{
+.topbar-nav a:hover,.topbar-info a:hover{
     color:#fff;
 }
 
@@ -68,4 +68,9 @@ color: rgb(66, 66, 66);
 }
 .cart-menu p{
     color: black;
+}
+
+.topbar-info{
+    float: right;
+    padding-right: 15px;
 }
